@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">Learn Activity</string>
+    <string name="act1">Hello Android - Activity 1</string>
+    <string name="act2">Hello Android - Activity 2</string>
+    <string name="noExt">Activity 2 -  no extras</string>
+    <string name="toAct2">Go to Activity 2</string>
+    <string name="toAct2Ext">Go to Activity 2 with extras</string>
+    <string name="forResult">Activity for Result</string>
+</resources>
